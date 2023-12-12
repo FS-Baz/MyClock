@@ -1,8 +1,3 @@
-import java.sql.Time;
-import java.text.SimpleDateFormat;
-import java.time.Clock;
-import java.time.LocalTime;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
