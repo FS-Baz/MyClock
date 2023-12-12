@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyClockController",
+            "request": "launch",
+            "mainClass": "MyClockController",
+            "projectName": "Clock_47a1b078"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
