@@ -41,7 +41,7 @@
   <children>
     <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="350.0" prefWidth="640.0" style="-fx-background-color: #2b2928;" VBox.vgrow="ALWAYS">
       <children>
-            <Label fx:id="ClockText" alignment="CENTER" layoutX="29.0" layoutY="67.0" prefHeight="267.0" prefWidth="583.0" text="Put time here" textAlignment="CENTER">
+            <Label fx:id="ClockText" alignment="CENTER" layoutX="29.0" layoutY="67.0" prefHeight="267.0" prefWidth="583.0" text="FaisalBaz" textAlignment="CENTER" textFill="#ffd2bd">
                <font>
                   <Font name="Gadugi" size="96.0" />
                </font>
